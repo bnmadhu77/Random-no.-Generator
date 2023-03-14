@@ -1,0 +1,55 @@
+body
+{
+text-align: center;
+background-color: darkslategrey;
+}
+
+.head
+{
+    margin:5% auto;
+    color: cornsilk;
+    font-family: serif;
+   
+}
+
+.type
+{  text-align: center;
+    font-size: 1.5rem;
+    font-weight: 600;
+    width:80px;
+    height:30px;
+    margin:10px;
+    color:blue;
+}
+.but
+{
+    background-color:darkgrey;
+    border:10px solid rgb(168, 29, 52);
+    border-radius: 25px;
+    margin:4% auto 0;
+    line-height: 1.5;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 8rem;
+    width: 200px;
+    height: 200px;
+    color:black;
+    
+}
+
+.generate
+{
+    height: 40px;
+    width: 130px;
+    margin:30px auto 10px ;
+    background-color:green ;
+    font-size: 20px;
+    font-weight: 900;
+}
+h2
+{
+    font-size: 4rem;
+    margin:3px auto;
+    font-family:monospace;
+    font-style: italic;
+    color:goldenrod;
+}
